@@ -12,7 +12,7 @@ Project is: _in progress_
 * [Logistic Regression](#Logistic-Regression)
 * [Ridge Regression](#Ridge-Regression)
 * [Lasso Regression](#Lasso-Regression)
-* [Support Vector Machine](#Support-Vector-Machine)
+* [Support Vector Machines](#Support-Vector-Machines)
 
 ## Screenshots
 Show examples of usage:
