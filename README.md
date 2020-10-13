@@ -8,23 +8,23 @@ Project is: _in progress_
 * [Naive Bayes](#NaiveBayes)
 * [Linear Regression](#LinearRegression)
 * [K-Nearest Neighbors](#KNN)
-* [Random Forest](#RandomForest)
-* [Logistic Regression](#LogisticRegression)
-* [Ridge Regression](#RidgeRegression)
-* [Lasso Regression](#LassoRegression)
-* [Support Vector Machine](#SupportVectorMachine)
+* [Random Forest](#Random-Forest)
+* [Logistic Regression](#Logistic-Regression)
+* [Ridge Regression](#Ridge-Regression)
+* [Lasso Regression](#Lasso-Regression)
+* [Support Vector Machine](#Support-Vector-Machine)
 
 ## Screenshots
 Show examples of usage:
 `put-your-code-here`
 ![Example screenshot](./img/screenshot.png)
 
-## Naive Bayes
+## Naive-Bayes
 Show examples of usage:
 `put-your-code-here`
 ![Example screenshot](./img/screenshot.png)
 
-## Linear Regression
+## Linear-Regression
 Show examples of usage:
 `put-your-code-here`
 ![Example screenshot](./img/screenshot.png)
@@ -35,22 +35,22 @@ Show examples of usage:
 ![Example screenshot](./img/screenshot.png)
 
 
-## Random Forest 
+## Random-Forest 
 Show examples of usage:
 `put-your-code-here`
 ![Example screenshot](./img/screenshot.png)
 
-## Logistic Regression
+## Logistic-Regression
 Show examples of usage:
 `put-your-code-here`
 ![Example screenshot](./img/screenshot.png)
 
-## Ridge Regression
+## Ridge-Regression
 Show examples of usage:
 `put-your-code-here`
 ![Example screenshot](./img/screenshot.png)
 
-## Lasso Regression
+## Lasso-Regression
 Show examples of usage:
 `put-your-code-here`
 ![Example screenshot](./img/screenshot.png)
