@@ -5,14 +5,14 @@ Project is: _in progress_
 > data visualization. 
 
 ## Table of contents
-* [Naive Bayes](#Naive Bayes)
-* [Linear Regression](#Linear Regression)
+* [Naive Bayes](#NaiveBayes)
+* [Linear Regression](#LinearRegression)
 * [K-Nearest Neighbors](#KNN)
-* [Random Forest](#Random Forest)
-* [Logistic Regression](#Logistic Regression)
-* [Ridge Regression](#Ridge Regression)
-* [Lasso Regression](#Lasso Regression)
-* [Support Vector Machine](#Support Vector Machine)
+* [Random Forest](#RandomForest)
+* [Logistic Regression](#LogisticRegression)
+* [Ridge Regression](#RidgeRegression)
+* [Lasso Regression](#LassoRegression)
+* [Support Vector Machine](#SupportVectorMachine)
 
 ## Screenshots
 Show examples of usage:
