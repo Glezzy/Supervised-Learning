@@ -55,5 +55,10 @@ Show examples of usage:
 `put-your-code-here`
 ![Example screenshot](./img/screenshot.png)
 
+## Support-Vector-Machines
+Show examples of usage:
+`put-your-code-here`
+![Example screenshot](./img/screenshot.png)
+
 
 Impressed? Want to know more or get in contact with me? Contact me at gsg@pdx.edu :) 
