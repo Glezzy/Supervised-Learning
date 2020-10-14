@@ -14,15 +14,10 @@ Project is: _in progress_
 * [Lasso Regression](#Lasso-Regression)
 * [Support Vector Machines](#Support-Vector-Machines)
 
-## Screenshots
-Show examples of usage:
-`put-your-code-here`
-![Example screenshot](./img/screenshot.png)
-
 ## Naive-Bayes
 Show examples of usage:
 `put-your-code-here`
-![Example screenshot](./img/screenshot.png)
+![Bernoulli Naive Bayes](images/naivebayes.png)
 
 ## Linear-Regression
 Show examples of usage:
